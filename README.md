@@ -55,31 +55,12 @@ Currently building my expertise in data analytics while combining my business an
 
 ---
 
-#### 🏠 **Real Estate Sales Performance Dashboard**
-
-> Analyzed 8,500 real estate transactions to identify the main drivers of sales value across markets, property types, customer segments, and sales channels.
-
-<p align="left">
-  <img src="images/real_estate_sales_performance_dashboard_overview.png" alt="Dashboard de Ventas de Real Estate" width="650">
-</p>
-
-**Tools:**
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-**Check this project out with the link bellow:**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Real_Estate_Dashboard-181717?style=flat&logo=github&logoColor=white)](https://github.com/rojaspetit/real_estate_sales_performance_dashboard)
-
----
-
 #### 📈 **RappiPlus Business Performance Analysis**
 
 > Analyzed RappiPlus business performance and identified the main opportunities for improving profitability, conversion, and user retention.
 
 <p align="left">
-  <img src="images/RappiPlus_Business_Performance_Analysis_dashboard_overview.png" alt="Dashboard de RappiPlus" width="650">
+  <img src="images/RappiPlus_Business_Performance_Analysis_dashboard_overview.png" alt="Dashboard de RappiPlus" width="850">
 </p>
 
 **Tools:**
@@ -90,11 +71,28 @@ Currently building my expertise in data analytics while combining my business an
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-
-
 **Check this project out with the link bellow:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Business_Performance_Analysis-181717?style=flat&logo=github&logoColor=white)](https://github.com/rojaspetit/RappiPlus_Business_Performance_Analysis)
+
+---
+
+#### 🏠 **Real Estate Sales Performance Dashboard**
+
+> Analyzed 8,500 real estate transactions to identify the main drivers of sales value across markets, property types, customer segments, and sales channels.
+
+<p align="left">
+  <img src="images/real_estate_sales_performance_dashboard_overview.png" alt="Dashboard de Ventas de Real Estate" width="850">
+</p>
+
+**Tools:**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Check this project out with the link bellow:**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Real_Estate_Dashboard-181717?style=flat&logo=github&logoColor=white)](https://github.com/rojaspetit/real_estate_sales_performance_dashboard)
 
 ---
 
