@@ -7,8 +7,7 @@ I use data to analyze performance, identify patterns, report insights through da
 Currently building my expertise in data analytics while combining my business and operational background with my interest in taking on new challenges, understanding them, and developing solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fedgarojas%2F-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgarojas/)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-RojasPetitEA%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:RojasPetitEA@gmail.com)
 
 ---
 
